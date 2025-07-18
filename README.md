@@ -1,5 +1,3 @@
-# The-Student-Spot-Summer-Internship-May-2025
-
 # 🌟 The Student Spot Summer Internship - May 2025
 
 Welcome! This repository contains my completed tasks for **The Student Spot Web Development Internship (May 2025)**.  
